@@ -1,2 +1,0 @@
-# AndroidApp5
-SimplePodCostApp
